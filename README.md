@@ -1,5 +1,6 @@
 # AstronomyChronicles.git.io
 
 
-Your Go to Astronomy Space, Test check
+Your Go to place for astronomy
+
 
