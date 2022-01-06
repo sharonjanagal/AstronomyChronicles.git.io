@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hi, Welcome to the world of COSMOS
 
-You can use the [editor on GitHub](https://github.com/sharonjanagal/AstronomyChronicles.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here, you will find two amateur astronomers, although having a Masters in Astronomy ;), talking about this vast spacetime from a pale blue dot. Dive in right with us to learn more and discover more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
